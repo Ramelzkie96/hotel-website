@@ -17,8 +17,8 @@ A modern, responsive hotel website built with HTML and CSS, designed to showcase
 
 ### Links
 
-- Solution URL: [View Code](https://github.com/Ramelzkie96/visual-designer-portfolio.git)
-- Live Site URL: [Live Site](https://virtual-designer.netlify.app/)
+- Solution URL: [View Code](https://github.com/Ramelzkie96/hotel-website.git)
+- Live Site URL: [Live Site](https://static-hotel-web.netlify.app/)
 
 ## My process
 
